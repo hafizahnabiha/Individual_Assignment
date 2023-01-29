@@ -1,0 +1,253 @@
+p
+    {
+        color:chocolate;
+    }
+
+body
+    {
+        background-color: pink;
+
+    }   
+
+table,tr,td,th
+    {
+        border-collapse: collapse;
+        border: 1px solid black;
+    }
+
+table
+    {
+        width: 600px;
+        text-align: center;
+    }
+
+tr 
+    {
+        background-color: rgb(241, 162, 193);
+        color: rgb(6, 6, 7);
+    }
+
+tr:nth-child(ood)
+    {
+        background-color: ghostwhite;
+    }
+
+ tr:hover
+    {
+        background-color: rgb(215, 115, 130);
+    }
+    
+td
+    {
+        padding: 10px;
+    }
+
+
+div.logo
+    {
+        float:left;
+        width: 25%;
+        height: 150px;
+        background-color: darkkhaki;
+    }    
+
+div.menu
+    {
+        float: left;
+        width: 75%;
+        height: 150px;
+        background-color: khaki;
+    }
+
+div.slider
+    {
+        float: left;
+        width: 100%;
+        height: 650px;
+        background-color: cornflowerblue;
+    }
+
+div.kotak1
+    {
+        float: left;
+        width: 25%;
+        height: 400px;
+        background-color: firebrick;
+    }
+
+div.kotak2
+    {
+        float: left;
+        width: 25%;
+        height: 400px;
+        background-color: goldenrod;
+    }
+
+div.kotak3
+    {
+        float: left;
+        width: 25%;
+        height: 400px;
+        background-color: firebrick;
+    }
+
+div.kotak4
+    {
+        float: left;
+        width: 25%;
+        height: 400px;
+        background-color: goldenrod;
+    }
+
+div.high1
+    {
+        float: left;
+        width: 50%;
+        height: 600px;
+        background-color: pink;
+    }
+
+div.high2
+    {
+        float: left;
+        width: 50%;
+        height: 600px;
+        background-color: plum;
+    }
+
+div.footer
+    {
+        float: left;
+        width: 100%;
+        height: 600px;
+        background-color: beige;
+    }
+
+p.footer
+    {  
+        color: maroon;
+        text-align: center;
+     }
+
+ol
+     {
+        list-style-type: lower-roman;
+     }
+
+ul
+     {
+        list-style-type: square;
+     }
+
+a
+     {
+        text-decoration: none;
+     }
+
+.fa-whatsapp
+     {
+        color: black;
+     }
+
+.fa-instagram
+     {
+        color: black;
+     }
+
+.fa-tiktok
+    {
+        color: black;
+    }
+
+    body {margin:0;}
+
+    .icon-bar {
+      width: 90%;
+      background-color: rgb(229, 153, 167);
+      overflow: auto;
+    }
+    
+    .icon-bar a {
+      float: left;
+      width: 18.5%;
+      text-align: center;
+      padding: 10px 9.5PX;
+      transition: all 0.3s ease;
+      color: white;
+      font-size: 36px;
+    }
+    
+    .icon-bar a:hover {
+      background-color: #000;
+    }
+    
+    .active {
+      background-color: #784b67;
+    }
+
+
+    a {
+        text-decoration: none;
+        display: inline-block;
+        padding: 8px 16px;
+      }
+      
+      a:hover {
+        background-color: rgb(217, 177, 177);
+        color: black;
+      }
+      
+      .previous {
+        background-color: #f1f1f1;
+        color: black;
+      }
+      
+      .next {
+        background-color: hsl(340, 32%, 67%);
+        color: white;
+      }
+      
+      
+      a {
+        text-decoration: none;
+        display: inline-block;
+        padding: 8px 16px;
+      }
+      
+      a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      .previous {
+        background-color: #f1f1f1;
+        color: black;
+      }
+      
+      .next {
+        background-color: #e3a7b1;
+        color: rgb(58, 46, 46);
+      }
+
+
+
+      a {
+        text-decoration: none;
+        display: inline-block;
+        padding: 10px 20px;
+      }
+      
+      a:hover {
+        background-color: rgb(176, 148, 148);
+        color: black;
+      }
+      
+      .previous {
+        background-color: #ede7e7;
+        color: black;
+      }
+      
+      .next {
+        background-color: #ba888b;
+        color: rgb(15, 10, 10);
+      }
